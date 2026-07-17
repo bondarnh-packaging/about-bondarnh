@@ -210,4 +210,4 @@ See [`DESIGN.md`](./DESIGN.md) for the full design language — colors, typograp
 
 ## License
 
-Private — all rights reserved.
+Distributed under the [MIT License](./LICENSE).
