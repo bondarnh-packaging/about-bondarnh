@@ -177,6 +177,13 @@ See [`DESIGN.md`](./DESIGN.md) for the full design language — colors, typograp
 
 ---
 
+## Collaborators
+
+- [phanphoun](https://github.com/phanphoun)
+- [bondarnh26](https://github.com/bondarnh26)
+
+---
+
 ## License
 
 Private — all rights reserved.
