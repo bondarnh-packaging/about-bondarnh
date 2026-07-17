@@ -26,6 +26,38 @@ Bondarnh is a full-stack ERP built for small and growing businesses in Cambodia.
 
 ---
 
+## About
+
+### What is Bondarnh?
+
+Bondarnh is a **multi-business ERP platform** purpose-built for Cambodian small and medium enterprises. It replaces spreadsheets, paper receipts, and disconnected tools with one unified system — in Khmer and English.
+
+A clothing retailer in Phnom Penh can run their POS, track inventory across two warehouses, manage staff, send invoices, handle Bakong KHQR payments, and let customers order via QR code — all from one account.
+
+### Why Bondarnh?
+
+| Problem | Solution |
+|---|---|
+| No Khmer-first ERP on the market | Full Khmer (KM) interface + English toggle |
+| Running 5 separate tools for POS, inventory, accounting, HR, tax | One platform, one login |
+| Paper receipts and manual bookkeeping | Digital POS with 80mm thermal printing + auto journal entries |
+| Customers wait to order | QR code menu → customer self-orders from phone |
+| No Bakong/ABA integration built-in | Native Bakong KHQR + ABA PayWay |
+| Staff permissions are a nightmare | Granular role-based access per business |
+
+### Who is it for?
+
+- **Shop owners** — POS, inventory, customer management, sales reports
+- **Restaurants & cafes** — QR menu ordering, table management, KHQR payment
+- **Wholesalers** — Purchase orders, supplier management, multi-warehouse inventory
+- **Accountants** — Chart of accounts, journal entries, trial balance, period closing
+- **HR managers** — Employee records, attendance, leave, payroll
+- **Business owners with multiple locations** — Each branch/business under one account with separate staff and permissions
+
+### The Name
+
+**Bondarnh** (បណ្តាញ) means *network* in Khmer — reflecting the vision of connecting Cambodian businesses on one platform.
+
 ## Quick Start
 
 ```bash
