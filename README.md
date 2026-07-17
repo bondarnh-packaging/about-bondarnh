@@ -179,8 +179,8 @@ See [`DESIGN.md`](./DESIGN.md) for the full design language — colors, typograp
 
 ## Collaborators
 
-- [phanphoun](https://github.com/phanphoun)
-- [bondarnh26](https://github.com/bondarnh26)
+- [**Phan Phoun**](https://github.com/phanphoun) — Full-Stack Developer. Building scalable web apps with clean code and great UX. Skilled in React, Vue, Node.js, and SQL.
+- [**Bondarnh**](https://github.com/bondarnh26) — Bondarnh ERP. A full-featured business ERP platform built for Cambodian businesses, supporting sales, inventory, HR, finance, and more in English and Khmer.
 
 ---
 
