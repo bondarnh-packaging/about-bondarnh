@@ -1,7 +1,7 @@
 <div align="center">
   <br/>
   <h1>Bondarnh</h1>
-  <h3>រ%B6;ង្ក%B0;រ%B6;ញ — Boundless Commerce</h3>
+  <h3>បណ្តាំ — Boundless Commerce</h3>
   <p>
     <strong>Khmer-first ERP for small and growing businesses in Cambodia</strong>
   </p>
