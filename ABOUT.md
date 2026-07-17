@@ -1,7 +1,7 @@
 <div align="center">
   <br/>
   <h1>Bondarnh</h1>
-  <h3>បណ្តាំ — Boundless Commerce</h3>
+  <h3>បណ្តាញ — Boundless Commerce</h3>
   <p>
     <strong>Khmer-first ERP for small and growing businesses in Cambodia</strong>
   </p>
@@ -173,7 +173,7 @@ See [`DESIGN.md`](./DESIGN.md) for the full design token system.
 
 ## The Name
 
-**Bondarnh** (បណ្តាំ) means *boundless* or *unlimited* in Khmer — reflecting the vision of empowering Cambodian businesses without limits.
+**Bondarnh** (បណ្តាញ) means *network* in Khmer — reflecting the vision of connecting Cambodian businesses on one platform.
 
 ---
 
@@ -192,8 +192,8 @@ docs(ERP-155): update environment variable guide
 <div align="center">
   <br/>
   <p>
-    <strong>Bondarnh</strong> — បណ្តាំ Boundless Commerce<br/>
-    <sub>Built for Cambodia. Built for growth.</sub>
+    <strong>Bondarnh</strong> — បណ្តាញ Network Commerce<br/>
+    <sub>Built for Cambodia. Built for connection.</sub>
   </p>
   <br/>
 </div>
