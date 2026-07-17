@@ -179,8 +179,32 @@ See [`DESIGN.md`](./DESIGN.md) for the full design language — colors, typograp
 
 ## Collaborators
 
-- [**Phan Phoun**](https://github.com/phanphoun) — Full-Stack Developer. Building scalable web apps with clean code and great UX. Skilled in React, Vue, Node.js, and SQL.
-- [**Bondarnh**](https://github.com/bondarnh26) — Bondarnh ERP. A full-featured business ERP platform built for Cambodian businesses, supporting sales, inventory, HR, finance, and more in English and Khmer.
+<div align="left">
+  <table>
+    <tr>
+      <td width="60" valign="middle">
+        <a href="https://github.com/phanphoun">
+          <img src="https://avatars.githubusercontent.com/u/212356779?v=4" width="50" height="50" style="border-radius:50%;" alt="Phan Phoun"/>
+        </a>
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/phanphoun"><strong>Phan Phoun</strong></a><br/>
+        Full-Stack Developer. Building scalable web apps with clean code and great UX. Skilled in React, Vue, Node.js, and SQL.
+      </td>
+    </tr>
+    <tr>
+      <td width="60" valign="middle">
+        <a href="https://github.com/bondarnh26">
+          <img src="https://avatars.githubusercontent.com/u/301120515?v=4" width="50" height="50" style="border-radius:50%;" alt="Bondarnh"/>
+        </a>
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/bondarnh26"><strong>Bondarnh</strong></a><br/>
+        Bondarnh ERP — A full-featured business ERP platform built for Cambodian businesses, supporting sales, inventory, HR, finance, and more in English and Khmer.
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
